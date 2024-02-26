@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T11:08:43.008Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1WSBfxVp239_RMf6XYDN" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T11:19:37.918Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="I4r3LMbEM0fQgBHniHZl" version="23.1.6" type="github">
   <diagram name="第 1 页" id="vscoD34nkn4cC29ZpkoS">
     <mxGraphModel dx="1838" dy="1009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -243,10 +243,10 @@
           <mxGeometry x="1580" y="300" width="120" height="450" as="geometry" />
         </mxCell>
         <mxCell id="9XMKBq4BbX7aeuvjxPOY-94" value="预测每个掩蔽Token" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1592.5" y="417" width="95" height="91" as="geometry" />
+          <mxGeometry x="1592.5" y="356.5" width="95" height="91" as="geometry" />
         </mxCell>
         <mxCell id="9XMKBq4BbX7aeuvjxPOY-95" value="模版提取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1592.5" y="550" width="95" height="70" as="geometry" />
+          <mxGeometry x="1592.5" y="593.5" width="95" height="86.5" as="geometry" />
         </mxCell>
         <mxCell id="9XMKBq4BbX7aeuvjxPOY-98" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -274,6 +274,9 @@
             <mxPoint x="1550" y="526.4100000000001" as="sourcePoint" />
             <mxPoint x="1580" y="526.4100000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9XMKBq4BbX7aeuvjxPOY-104" value="Jaccard合并" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1592.5" y="474.5" width="95" height="91" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
